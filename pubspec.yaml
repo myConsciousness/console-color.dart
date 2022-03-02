@@ -1,0 +1,11 @@
+name: console_color
+description: The convenient enum of 256 colors for console. This library gives the color code for the console an easily recognizable name.
+version: 1.0.0
+homepage: https://github.com/myConsciousness/console-color.dart
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: ^1.16.0
