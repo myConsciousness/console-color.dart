@@ -4,7 +4,7 @@
   - [1.1. Introduction](#11-introduction)
     - [1.1.1. Install Library](#111-install-library)
     - [1.1.2. Import It](#112-import-it)
-    - [1.1.3. Use Batch library](#113-use-batch-library)
+    - [1.1.3. Use library](#113-use-library)
   - [1.2. License](#12-license)
   - [1.3. More Information](#13-more-information)
 
@@ -36,7 +36,7 @@ The convenient enum of 256 colors for console. `Console Color` gives the color c
 import 'package:console_color/console_color.dart';
 ```
 
-### 1.1.3. Use Batch library
+### 1.1.3. Use library
 
 ```dart
 import 'package:console_color/console_color.dart';
