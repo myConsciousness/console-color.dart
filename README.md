@@ -42,7 +42,7 @@ import 'package:console_color/console_color.dart';
 import 'package:console_color/console_color.dart';
 
 void main() {
-  final color = ConsoleColor.cyan1;
+  final color = ConsoleColor.cyan;
   print(color.name);
   print(color.code);
 
